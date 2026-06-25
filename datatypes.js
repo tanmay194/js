@@ -114,6 +114,7 @@ Difference between primitive and non primitive data types
  Number , String , Boolean , null, |  Arrays , objects , functions
 undefined , symbol , BigInt        |
 
+stack is used                      |    heap is usedz`
 
 */
 
